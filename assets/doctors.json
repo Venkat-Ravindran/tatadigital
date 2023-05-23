@@ -1,0 +1,42 @@
+[
+   {
+      "id":1,
+      "name":"Dr Krishna",
+      "gender":"M",
+      "experience":22,
+      "speciality":"Dental Surgeon",
+      "desc":"Some Text Here",
+      "rating":4.8,
+      "patientSize":560
+   },
+   {
+      "id":2,
+      "name":"Dr Lavanya",
+      "gender":"F",
+      "experience":11,
+      "speciality":"Gynecologist",
+      "desc":"Some Text Here",
+      "rating":4.9,
+      "patientSize":234
+   },
+   {
+      "id":3,
+      "name":"Dr Shivkumar",
+      "gender":"M",
+      "experience":18,
+      "speciality":"Ortho",
+      "desc":"Some Text Here",
+      "rating":4.6,
+      "patientSize":120
+   },
+   {
+      "id":4,
+      "name":"Dr George Mathews",
+      "gender":"M",
+      "experience":18,
+      "speciality":"Heart Specialist",
+      "desc":"Some Text Here",
+      "rating":4.7,
+      "patientSize":346
+   }
+]
